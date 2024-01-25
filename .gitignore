@@ -1,0 +1,6 @@
+*.o
+*.out
+*.iso
+*.pyc
+__pycache__
+pieces/*
